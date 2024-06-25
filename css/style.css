@@ -9,10 +9,14 @@
 .color-amber{
     color: #EB664E;
 }
-.color-gris{
+.background-gris{
     background-color: #E9E9E9;
+    background-color: #FFFFFF;
 }
 
 .color-orange{
     color: #E7C873;
+}
+.background-orange{
+    background-color: #E7C873;
 }
